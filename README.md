@@ -1,2 +1,8 @@
 # Mini-Project
-This repository contains the mini project which I had done as a part of data analysis program. My mini project is the analysis of Super-Store's sales data using Python.
+Data Analysis of Airline Passenger Satisfaction using Python. This is part of Mini Project for the Data Analytics course offered by EduBridge.
+I have used Python Libraries - Pandas, Numpy, Seaborn and Matplotlib for analysing the dataset. The analysis gives an insight into the factors leads to the customer satisfaction in an airline
+
+# Source of Dataset
+https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction
+
+
